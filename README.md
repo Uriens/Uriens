@@ -10,5 +10,5 @@
 
 
 
-<p align="center"> <img width="100" height="100" src="https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif"> </p>
+<p align="center"> <img width="300" height="400" src="https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif"> </p>
 
