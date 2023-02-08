@@ -6,8 +6,10 @@
 <h3 align="center">https://www.linkedin.com/in/ignacio-castellanos-a4a82b259/ 📧</h3>
 <p align="left">
 </p>
-<p align="center">
-![7d07a255678962d30d8717dcf5dbd266](https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif)
-  </p>
+
+
+![A cute computer](https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif)
+
+img[src$="centerme"] { display:block; margin: 0 auto; }
 
 
