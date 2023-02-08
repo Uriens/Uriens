@@ -11,6 +11,6 @@
 
 
 
-<img align="right" width="600" height="200" src="https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif">
+<img align="center" width="600" height="200" src="https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif">
 
 
