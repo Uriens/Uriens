@@ -8,8 +8,9 @@
 </p>
 
 
-![A cute computer](https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif)
 
-img[src$="A cute computer"] { display:block; margin: 0 auto; }
+
+
+<img align="right" width="600" height="200" src="https://user-images.githubusercontent.com/116003329/217473826-1c17f817-0e08-4359-982c-41c9c1bbcca8.gif">
 
 
