@@ -6,5 +6,6 @@
 <h3 align="center">https://www.linkedin.com/in/ignacio-castellanos-a4a82b259/ 📧</h3>
 <p align="left">
 </p>
-![image](https://user-images.githubusercontent.com/116003329/217473402-cfebfabd-b2ac-4c85-9e1b-24adbe7cc29b.png)
+
+![dfdfdf](https://user-images.githubusercontent.com/116003329/217473693-372e9011-92cc-4020-802e-41d65641effe.jpg)
 
