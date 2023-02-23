@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Ignacio Castellanos  🧔 💻  </h1>
+<h1 align="center"> I'm Ignacio Castellanos </h1>
 <h3 align="center">Programming web Full Stack</h3>
 
 
