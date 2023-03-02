@@ -2,6 +2,19 @@
 <h3 align="center">Programming web Full Stack</h3>
 
 
+Front-End:
+html5 css3 sass javascript jest react
+
+Back-End:
+nodejs java mysql
+
+Tools:
+figma git git
+
+Jordy Iglesias Stats
+
+
+
 <h3 align="center">Connect with me: ignaciocstlls@gmail.com 📧</h3>
 <h3 align="center">https://www.linkedin.com/in/ignacio-castellanos-a4a82b259/ 📧</h3>
 <p align="left">
